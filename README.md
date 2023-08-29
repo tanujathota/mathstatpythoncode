@@ -1,2 +1,2 @@
-# mathstatpythoncode
+# py
 practiced
